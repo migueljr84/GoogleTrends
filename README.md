@@ -22,4 +22,8 @@ Com o que já definido, defini um períodos nos últimos 3 anos para a região d
 
 Em resumo, irei buscar todas as tendências que ocorreram no Google que aconteceu no Brasil relacionado ao Bolsonaro, Lula e Ciro Gomes nos últimos 3 anos.
 
-O código encontra-se no arquivo GoogleTrends.py
+O código encontra-se no arquivo GoogleTrends.py e cada linha de código encontra-se comentado com a devida explicação.
+
+
+
+
