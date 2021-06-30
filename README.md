@@ -1,4 +1,4 @@
-# GoogleTrends
+# GoogleTrends - Visibilidade do que estão pesquisando no Google.
 Pessoal da minha timeline, veno disponibilizar um código O que as pessoas estão pesquisando no Google?
 
 Por acaso você conhece o Google Trends? 
